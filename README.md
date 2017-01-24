@@ -1,2 +1,0 @@
-# IP-ADRESS.js
-IP ADRESS.js
